@@ -16,7 +16,7 @@ $row = $stmt->fetch(PDO::FETCH_ASSOC);
 <html>
 <head>
     <?php require_once "bootstrap.php"; ?>
-    <title>Jared Best | Login Page</title>
+    <title>Ankit Gupta | Login Page</title>
 </head>
 <body>
 <div class="container">
