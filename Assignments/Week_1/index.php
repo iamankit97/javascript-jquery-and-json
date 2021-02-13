@@ -14,7 +14,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
 </head>
 <body>
 <div class="container">
-    <h2>Ankit Gupta | Resume Registry</h2>
+    <h2>579d0f13</h2>
     <?php
     if (isset($_SESSION['name'])) {
         echo '<p><a href="logout.php">Logout</a></p>';
